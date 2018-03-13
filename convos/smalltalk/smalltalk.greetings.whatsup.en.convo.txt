@@ -1,0 +1,7 @@
+smalltalk.greetings.whatsup
+
+#me
+smalltalk.greetings.whatsup
+
+#bot
+!INCOMPREHENSION

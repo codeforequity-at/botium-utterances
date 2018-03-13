@@ -1,0 +1,7 @@
+smalltalk.emotions.ha_ha
+
+#me
+smalltalk.emotions.ha_ha
+
+#bot
+!INCOMPREHENSION

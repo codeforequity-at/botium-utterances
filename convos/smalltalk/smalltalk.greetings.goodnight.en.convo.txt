@@ -1,0 +1,7 @@
+smalltalk.greetings.goodnight
+
+#me
+smalltalk.greetings.goodnight
+
+#bot
+!INCOMPREHENSION

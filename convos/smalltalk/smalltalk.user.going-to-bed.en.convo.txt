@@ -1,0 +1,7 @@
+smalltalk.user.going_to_bed
+
+#me
+smalltalk.user.going_to_bed
+
+#bot
+!INCOMPREHENSION

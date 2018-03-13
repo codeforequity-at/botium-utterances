@@ -1,0 +1,7 @@
+smalltalk.dialog.hold_on
+
+#me
+smalltalk.dialog.hold_on
+
+#bot
+!INCOMPREHENSION

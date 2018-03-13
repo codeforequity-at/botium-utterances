@@ -1,0 +1,7 @@
+smalltalk.user.has_birthday
+it's my birthday today
+I was born today
+today is my birthday
+it is my birthday
+I'm celebrating my birthday today
+it's my b-day

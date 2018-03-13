@@ -1,0 +1,10 @@
+smalltalk.appraisal.well_done
+nice work
+bravo
+well done
+good job
+great job
+way to go
+amazing work
+great work
+good work

@@ -1,0 +1,7 @@
+smalltalk.agent.sure
+
+#me
+smalltalk.agent.sure
+
+#bot
+!INCOMPREHENSION

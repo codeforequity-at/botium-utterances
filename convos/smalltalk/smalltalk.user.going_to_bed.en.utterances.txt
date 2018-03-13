@@ -1,0 +1,10 @@
+smalltalk.user.going_to_bed
+I'm a little tired and I want to go to bed
+time for us to go to bed
+I'm going to bed
+is it time for bed yet
+going to bed now
+it's bed time
+I'd like to go to bed
+let's go to bed
+it's time to go to bed

@@ -1,0 +1,7 @@
+smalltalk.dialog.hug
+
+#me
+smalltalk.dialog.hug
+
+#bot
+!INCOMPREHENSION

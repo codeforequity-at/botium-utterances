@@ -1,0 +1,8 @@
+smalltalk.agent.boss
+who is your master
+who do you work for
+who do you think is your boss
+who is your boss
+I should be your boss
+who is your owner
+who is the boss

@@ -1,0 +1,9 @@
+smalltalk.user.tired
+I feel tired
+I'm getting tired
+I'm worn out
+I'm drained
+I grow weary
+I've overworked
+I'm exhausted
+I am tired

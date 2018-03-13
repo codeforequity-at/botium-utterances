@@ -1,0 +1,9 @@
+smalltalk.dialog.hold_on
+don't rush
+wait a second
+could you wait
+hold on
+wait please
+wait hold on
+wait
+oh wait

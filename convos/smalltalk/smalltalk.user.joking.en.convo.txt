@@ -1,0 +1,7 @@
+smalltalk.user.joking
+
+#me
+smalltalk.user.joking
+
+#bot
+!INCOMPREHENSION

@@ -1,0 +1,8 @@
+smalltalk.agent.hobby
+what about your hobby
+what are your hobbies
+what's your hobby
+what do you do for fun
+your hobby
+tell me about your hobby
+do you have a hobby

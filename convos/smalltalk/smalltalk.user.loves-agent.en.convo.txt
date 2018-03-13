@@ -1,0 +1,7 @@
+smalltalk.user.loves_agent
+
+#me
+smalltalk.user.loves_agent
+
+#bot
+!INCOMPREHENSION

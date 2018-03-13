@@ -1,0 +1,8 @@
+smalltalk.user.angry
+I'm enraged
+I'm angry
+I'm furious
+I'm being mad
+I am mad
+I am angry with you
+I am mad at you

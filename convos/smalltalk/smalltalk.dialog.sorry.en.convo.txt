@@ -1,0 +1,7 @@
+smalltalk.dialog.sorry
+
+#me
+smalltalk.dialog.sorry
+
+#bot
+!INCOMPREHENSION

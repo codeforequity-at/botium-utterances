@@ -1,0 +1,18 @@
+smalltalk.greetings.nice_to_see_you
+great to see you again
+nice to see you
+good to see you
+good to see you again
+great to see you
+it's good to see you too
+lovely to see you
+how good it is to see you
+I am glad to see you again
+it's good to see you
+glad to see you
+it's nice to see you
+I'm glad to see you
+glad to see you too
+nice to see you again
+great to see you too
+always a pleasure to see you

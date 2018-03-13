@@ -1,0 +1,7 @@
+smalltalk.agent.marry_user
+
+#me
+smalltalk.agent.marry_user
+
+#bot
+!INCOMPREHENSION

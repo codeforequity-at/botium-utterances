@@ -1,0 +1,7 @@
+smalltalk.confirmation.no
+
+#me
+smalltalk.confirmation.no
+
+#bot
+!INCOMPREHENSION

@@ -1,0 +1,7 @@
+smalltalk.user.does_not_want_to_talk
+
+#me
+smalltalk.user.does_not_want_to_talk
+
+#bot
+!INCOMPREHENSION

@@ -1,0 +1,6 @@
+smalltalk.user.here
+I am here
+I'm right here
+here I am
+can you tell if I'm here or not
+I'm already here

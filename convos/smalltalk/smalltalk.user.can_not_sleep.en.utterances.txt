@@ -1,0 +1,9 @@
+smalltalk.user.can_not_sleep
+I can't fall asleep
+I can't get to sleep
+I'm insomnious
+I can't get no sleep
+I'm sleepless
+I'm insomniac
+I can't sleep
+I can't get any sleep

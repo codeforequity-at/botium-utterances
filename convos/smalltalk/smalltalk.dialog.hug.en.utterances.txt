@@ -1,0 +1,16 @@
+smalltalk.dialog.hug
+wanna hug
+you hugged
+do you want a hug
+hug me
+hugged
+a hug
+I want a hug
+may I hug you
+hug you
+hugged me
+hugging me
+hugging
+want a hug
+could you give me a hug
+hug

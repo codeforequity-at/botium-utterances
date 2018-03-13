@@ -1,0 +1,7 @@
+smalltalk.user.busy
+
+#me
+smalltalk.user.busy
+
+#bot
+!INCOMPREHENSION

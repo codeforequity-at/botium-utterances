@@ -1,0 +1,7 @@
+smalltalk.agent.age
+
+#me
+smalltalk.agent.age
+
+#bot
+!INCOMPREHENSION

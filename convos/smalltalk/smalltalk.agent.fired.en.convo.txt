@@ -1,0 +1,7 @@
+smalltalk.agent.fired
+
+#me
+smalltalk.agent.fired
+
+#bot
+!INCOMPREHENSION

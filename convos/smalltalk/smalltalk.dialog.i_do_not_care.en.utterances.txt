@@ -1,0 +1,10 @@
+smalltalk.dialog.i_do_not_care
+not caring at all
+I don't care at all
+not caring
+whatever
+don't care at all
+I shouldn't care about this
+not care at all
+I do not care
+I don't care

@@ -1,0 +1,7 @@
+smalltalk.user.lonely
+I'm really lonely
+I feel lonely
+I'm very lonely
+I am feeling lonely
+I'm so lonely
+I am lonely

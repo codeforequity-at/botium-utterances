@@ -1,0 +1,13 @@
+smalltalk.dialog.wrong
+you are wrong
+it is not right
+that's wrong
+that was wrong
+it's wrong
+that's not right
+wrong
+incorrect
+that's not what I asked
+not right
+that is incorrect
+not correct

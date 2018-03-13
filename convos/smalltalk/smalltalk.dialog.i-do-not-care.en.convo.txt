@@ -1,0 +1,7 @@
+smalltalk.dialog.i_do_not_care
+
+#me
+smalltalk.dialog.i_do_not_care
+
+#bot
+!INCOMPREHENSION

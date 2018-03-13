@@ -1,0 +1,7 @@
+smalltalk.agent.hungry
+
+#me
+smalltalk.agent.hungry
+
+#bot
+!INCOMPREHENSION

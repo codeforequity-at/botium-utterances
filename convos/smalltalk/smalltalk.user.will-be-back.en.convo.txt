@@ -1,0 +1,7 @@
+smalltalk.user.will_be_back
+
+#me
+smalltalk.user.will_be_back
+
+#bot
+!INCOMPREHENSION

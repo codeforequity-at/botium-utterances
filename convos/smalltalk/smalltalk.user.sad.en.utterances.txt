@@ -1,0 +1,10 @@
+smalltalk.user.sad
+I am sad
+I am upset
+I'm not happy
+I am depressed
+I'm unhappy
+I'm grieving
+I'm having a bad day
+I want to cry
+I am feeling sad

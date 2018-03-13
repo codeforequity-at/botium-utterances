@@ -1,0 +1,6 @@
+smalltalk.user.sleepy
+I'm falling asleep on my feet
+I'm falling asleep
+I'm sleeping
+I am sleepy
+I want to sleep

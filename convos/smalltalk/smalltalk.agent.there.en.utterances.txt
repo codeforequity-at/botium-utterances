@@ -1,0 +1,9 @@
+smalltalk.agent.there
+are you near me
+are you still there
+are you here
+are you still here
+you are there
+you are here
+you still there
+are you there

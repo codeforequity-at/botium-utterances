@@ -1,0 +1,9 @@
+smalltalk.user.bored
+boring
+this is boring
+very boring
+bored
+I am getting bored
+that was boring
+I'm bored
+it bores me

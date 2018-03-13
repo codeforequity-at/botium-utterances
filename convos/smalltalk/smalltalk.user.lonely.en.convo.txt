@@ -1,0 +1,7 @@
+smalltalk.user.lonely
+
+#me
+smalltalk.user.lonely
+
+#bot
+!INCOMPREHENSION

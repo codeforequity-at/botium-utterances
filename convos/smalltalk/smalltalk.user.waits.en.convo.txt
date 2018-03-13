@@ -1,0 +1,7 @@
+smalltalk.user.waits
+
+#me
+smalltalk.user.waits
+
+#bot
+!INCOMPREHENSION

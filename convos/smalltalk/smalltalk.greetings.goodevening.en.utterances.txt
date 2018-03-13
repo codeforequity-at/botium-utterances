@@ -1,0 +1,7 @@
+smalltalk.greetings.goodevening
+good evening there
+hey good evening
+good evening to you
+hello good evening
+good evening
+evening

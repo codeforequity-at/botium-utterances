@@ -1,0 +1,10 @@
+smalltalk.user.busy
+I got work to do
+I don't have time for this
+how busy I am
+I'm swamped
+I'm busy
+I got things to do
+I have no time
+I'm working
+I'm overloaded

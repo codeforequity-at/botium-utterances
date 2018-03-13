@@ -1,0 +1,7 @@
+smalltalk.greetings.how_are_you
+
+#me
+smalltalk.greetings.how_are_you
+
+#bot
+!INCOMPREHENSION

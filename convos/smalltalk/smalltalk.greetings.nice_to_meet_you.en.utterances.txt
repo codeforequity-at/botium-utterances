@@ -1,0 +1,11 @@
+smalltalk.greetings.nice_to_meet_you
+pleased to meet you
+nice to meet you
+pleasure to meet you too
+it was very nice to meet you
+nice meeting you
+nice to meet you too
+glad to meet you
+it was nice meeting you
+good to know each other
+pleasure to meet you

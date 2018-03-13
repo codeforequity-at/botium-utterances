@@ -1,0 +1,7 @@
+smalltalk.user.has_birthday
+
+#me
+smalltalk.user.has_birthday
+
+#bot
+!INCOMPREHENSION

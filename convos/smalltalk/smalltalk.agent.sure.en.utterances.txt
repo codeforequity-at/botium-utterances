@@ -1,0 +1,6 @@
+smalltalk.agent.sure
+are you sure right now
+are you sure today
+are you sure now
+are you sure tonight
+are you sure

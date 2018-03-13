@@ -1,0 +1,12 @@
+support.refund
+refund
+I purchased an item by mistake, can I have my money back?
+give me back my money
+I expect my money back
+I've bought a broken item. Return my money
+the product I've bought here is failed
+how do I get a refund
+refund my purchase. Transaction id is 12390283736
+I want to request a refund
+Your product doesn't meet my expectations I want a refund
+I want to cancel the purchase 134567890

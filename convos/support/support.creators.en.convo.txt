@@ -1,0 +1,7 @@
+support.creators
+
+#me
+support.creators
+
+#bot
+!INCOMPREHENSION

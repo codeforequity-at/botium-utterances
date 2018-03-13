@@ -1,0 +1,7 @@
+smalltalk.user.looks_like
+
+#me
+smalltalk.user.looks_like
+
+#bot
+!INCOMPREHENSION

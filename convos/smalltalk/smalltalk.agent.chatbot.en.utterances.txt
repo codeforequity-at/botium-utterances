@@ -1,0 +1,9 @@
+smalltalk.agent.chatbot
+are you a bot
+are you a program
+you're a robot
+are you a chatbot
+you are chatbot
+are you a robot
+are you just a bot
+you are a bot

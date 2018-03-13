@@ -1,0 +1,19 @@
+smalltalk.greetings.hello
+howdy
+hey
+long time no see
+heya
+hi
+a good day
+just going to say hi
+lovely day isn't it
+I greet you
+afternoon
+hi there
+greetings
+hey there
+hello there
+hello
+hello again
+hi there
+hello hi

@@ -1,0 +1,7 @@
+smalltalk.user.excited
+
+#me
+smalltalk.user.excited
+
+#bot
+!INCOMPREHENSION

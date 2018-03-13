@@ -1,0 +1,7 @@
+smalltalk.user.tired
+
+#me
+smalltalk.user.tired
+
+#bot
+!INCOMPREHENSION

@@ -1,0 +1,9 @@
+smalltalk.agent.hungry
+you are hungry
+you might be hungry
+do you want to eat
+you're really hungry
+are you hungry
+would you like to eat something
+you're so hungry
+you're very hungry

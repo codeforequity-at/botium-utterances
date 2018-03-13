@@ -1,0 +1,8 @@
+smalltalk.agent.ready
+were you ready
+are you ready tonight
+are you ready now
+have you been ready
+are you ready right now
+are you ready
+are you ready today

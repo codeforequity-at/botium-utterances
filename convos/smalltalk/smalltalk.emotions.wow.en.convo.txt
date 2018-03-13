@@ -1,0 +1,7 @@
+smalltalk.emotions.wow
+
+#me
+smalltalk.emotions.wow
+
+#bot
+!INCOMPREHENSION

@@ -1,0 +1,7 @@
+smalltalk.appraisal.no_problem
+
+#me
+smalltalk.appraisal.no_problem
+
+#bot
+!INCOMPREHENSION
