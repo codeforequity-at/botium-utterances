@@ -1,0 +1,19 @@
+product.search/product.search - select.number/product.search - select.number - yes
+
+#me
+product.search
+
+#bot
+!INCOMPREHENSION
+
+#me
+product.search - select.number
+
+#bot
+!INCOMPREHENSION
+
+#me
+product.search - select.number - yes
+
+#bot
+!INCOMPREHENSION

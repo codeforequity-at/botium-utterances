@@ -1,0 +1,7 @@
+item.remove
+
+#me
+item.remove
+
+#bot
+!INCOMPREHENSION

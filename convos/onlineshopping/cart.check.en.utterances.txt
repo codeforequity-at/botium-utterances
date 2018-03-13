@@ -1,0 +1,7 @@
+cart.check
+what items are in my cart at the moment
+check cart
+check what's in my cart
+cart
+check my cart
+what's in my cart

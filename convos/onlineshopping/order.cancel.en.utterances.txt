@@ -1,0 +1,8 @@
+order.cancel
+I want to cancel my order
+I no longer need this order
+remove the order
+I changed my mind about the order
+I don't want this order anymore
+delete my order
+how to cancel my order

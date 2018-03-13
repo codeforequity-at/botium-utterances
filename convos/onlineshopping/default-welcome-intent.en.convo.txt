@@ -1,0 +1,7 @@
+Default Welcome Intent
+
+#me
+Default Welcome Intent
+
+#bot
+!INCOMPREHENSION

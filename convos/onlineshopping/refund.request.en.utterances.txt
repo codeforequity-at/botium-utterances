@@ -1,0 +1,12 @@
+refund.request
+I received a damaged item
+I want to return my purchase
+Can I get my money back
+I request a refund
+I'd like to cancel purchase
+Refund
+I want my money back
+I want to make an exchange
+I received a wrong item
+cancel purchase
+I want to get refund

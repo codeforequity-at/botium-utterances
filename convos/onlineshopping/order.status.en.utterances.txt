@@ -1,0 +1,11 @@
+order.status
+check my order
+my email is dialogflow@dialogflow.com can you check my order status
+where is my order
+can you check my orders
+what's my order status
+check order for email example@dialogflow.com
+my order number is 938464 can you check it
+check order 1234 for test@dialogflow.com
+my orders
+where is my package

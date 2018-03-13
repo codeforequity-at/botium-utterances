@@ -1,0 +1,10 @@
+product.search - select.number - no
+no
+don't do it
+thanks but no
+not interested
+definitely not
+I don't think so
+I don't want that
+I disagree
+not really

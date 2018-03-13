@@ -1,0 +1,7 @@
+check_out
+
+#me
+check_out
+
+#bot
+!INCOMPREHENSION

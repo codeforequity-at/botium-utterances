@@ -1,0 +1,13 @@
+product.search - select.number - yes
+sounds good
+yes
+ok
+exactly
+confirm
+that's correct
+sure
+do it
+okay
+of course
+I don't mind
+I agree

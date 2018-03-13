@@ -1,0 +1,13 @@
+product.search/product.search - next
+
+#me
+product.search
+
+#bot
+!INCOMPREHENSION
+
+#me
+product.search - next
+
+#bot
+!INCOMPREHENSION

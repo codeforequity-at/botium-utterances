@@ -1,0 +1,13 @@
+gift_card/gift_card - $200
+
+#me
+gift_card
+
+#bot
+!INCOMPREHENSION
+
+#me
+gift_card - $200
+
+#bot
+!INCOMPREHENSION

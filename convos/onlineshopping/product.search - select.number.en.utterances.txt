@@ -1,0 +1,11 @@
+product.search - select.number
+I choose number 3
+choose 1st
+the 1st one
+choose number 1
+show me the second one
+number 4
+select the first one
+see 1
+second one
+I select number 2
