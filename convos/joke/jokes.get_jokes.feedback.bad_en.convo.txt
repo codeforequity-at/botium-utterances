@@ -1,0 +1,13 @@
+jokes.get/jokes.feedback.bad
+
+#me
+jokes.get
+
+#bot
+!INCOMPREHENSION
+
+#me
+jokes.feedback.bad
+
+#bot
+!INCOMPREHENSION
