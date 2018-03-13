@@ -1,4 +1,4 @@
-# Botium Utterances Library for Chatbot Developers
+# Common Utterances Library for Chatbot Developers
 
 A technology-independent collection of sample utterances every chatbot should support, available for various languages.
 
