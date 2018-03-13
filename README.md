@@ -30,3 +30,14 @@ The "shared" collection contains common utterances for various use cases:
 	const lines = _.map(scriptData.split('\n'), (line) => line.trim());
 	const yesIntent = { name: lines[0], utterances: lines.slice(1) };
 
+# Sample code for using the utterances-files in a chatbot
+
+## Botkit
+
+	...
+	const controller = createBotkitController();
+	
+	controller.hears(yesIntent.utterances, 'message_received', function(bot, message) {
+		bot.reply(message, 'OK, will do');
+	});	
+
