@@ -34,6 +34,7 @@ The "convo" collection contains conversation scenarios for various use cases:
 * The typical "tell me joke" scenario
 * Smalltalk questions such as "who are you"
 * Support questions as "let me talk to a human" or "how can i contact you"
+* Shopping cart
 
 The conversations are in a file format supported by [Botium - The Selenium for Chatbots](https://github.com/codeforequity-at/botium-core) - so you can run them against your chatbot with a few configuration steps (in most cases).
 
