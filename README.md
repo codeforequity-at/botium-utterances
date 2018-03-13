@@ -1,6 +1,6 @@
 # Common Utterances Library for Chatbot Developers
 
-A technology-independent collection of sample utterances every chatbot should support, available for various languages.
+A technology-independent collection of sample utterances and conversations every chatbot should support, available for various languages.
 
 The library is composed of a bunch of simple plain text files, the syntax description can be found [here in the Botium Wiki](https://github.com/codeforequity-at/botium-core/wiki/Botium-Scripting)
 
@@ -12,8 +12,7 @@ Moreover, lots of people like to "challenge" a chatbot by just throwing in a "te
 
 This project has been initiated to solve the pain of chatbot developers to repeatedly compose sample utterances for basic user intents. It provides a starting point for chatbot developers to look up and listen to common user intents in their chatbot. It is meant to be improved continuously with feedback from chatbot developers all over the world.
 
-**If you find this library useful we ask to contribute by extending the existing utterances files or by adding other useful utterances files, to make continuous improvements for everyone!**
-
+**If you find this library useful we ask to contribute by extending the existing or adding new utterances or convo files - if this project helped you in buildling a better chatbot, please help others to build better chatbots too!**
 
 ## Common utterances
 
@@ -27,6 +26,16 @@ The "shared" collection contains common utterances for various use cases:
 * start over
 * more
 * help
+
+## Common conversations
+
+The "convo" collection contains conversation scenarios for various use cases:
+
+* The typical "tell me joke" scenario
+* Smalltalk questions such as "who are you"
+* Support questions as "let me talk to a human" or "how can i contact you"
+
+The conversations are in a file format supported by [Botium - The Selenium for Chatbots](https://github.com/codeforequity-at/botium-core) - so you can run them against your chatbot with a few configuration steps (in most cases).
 
 # Sample code for parsing the utterances-files
 
