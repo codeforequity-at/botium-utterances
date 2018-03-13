@@ -12,7 +12,7 @@ Chatbot developers should not waste time with mapping common user intents (as "m
 
 Moreover, lots of people like to "challenge" a chatbot by just throwing in a "tell me a joke" or "how is the weather in london" - while it makes perfectly sense for a chatbot not to tell jokes or find out about the weather, a chatbot should a least have a good answer for those users. You can see such "small talk intents" as test cases which every chatbot should be able to handle.
 
-This project has been initiated to provide a starting point for chatbot developers to look up or integrated common utterances into their chatbot. It is meant to be improved continuously with feedback from chatbot developers all over the world.
+This project has been initiated to solve the pain of chatbot developers to repeatedly compose sample utterances for basic user intents. It provides a starting point for chatbot developers to look up and listen to common user intents in their chatbot. It is meant to be improved continuously with feedback from chatbot developers all over the world.
 
 **If you find this library useful we ask to contribute by extending the existing utterances files or by adding other useful utterances files, to make continuous improvements for everyone!**
 
