@@ -34,10 +34,9 @@ The "shared" collection contains common utterances for various use cases:
 
 ## Botkit
 
-	...
 	const controller = createBotkitController();
 	
 	controller.hears(yesIntent.utterances, 'message_received', function(bot, message) {
-		bot.reply(message, 'OK, will do');
+	    bot.reply(message, 'OK, will do');
 	});	
 
