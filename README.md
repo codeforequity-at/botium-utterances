@@ -2,9 +2,7 @@
 
 A technology-independent collection of sample utterances every chatbot should support, available for various languages.
 
-The library is composed of a bunch of simple plain text files:
-* First line contains a "reference code" for the utterances
-* Following lines contain sample utterances
+The library is composed of a bunch of simple plain text files, the syntax description can be found [here in the Botium Wiki](https://github.com/codeforequity-at/botium-core/wiki/Botium-Scripting)
 
 ## Why this library ?
 
